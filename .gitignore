@@ -1,0 +1,13 @@
+# Run output
+PhotoOrganizer-Logs/
+*.log
+
+# PowerShell / editor artifacts
+*.clixml
+*.tmp
+*.bak
+.vs/
+.vscode/
+
+# Local test media (never commit personal media)
+TestData/

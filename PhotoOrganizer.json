@@ -1,0 +1,11 @@
+{
+  "DryRun": false,
+  "RemoveMetadata": true,
+  "BakeOrientation": true,
+  "MinimumPadding": 3,
+  "SupportedExtensions": [
+    ".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp", ".heic", ".heif", ".tif", ".tiff",
+    ".cr2", ".cr3", ".nef", ".arw", ".raf", ".rw2", ".orf", ".dng",
+    ".mp4", ".mov", ".avi", ".mkv", ".mts", ".m2ts", ".3gp"
+  ]
+}
